@@ -1,0 +1,5 @@
+{
+  "name": "Prime Guru",
+  "description": "A sophisticated mobile-first application to detect prime numbers and discover deep mathematical insights using Gemini AI.",
+  "requestFramePermissions": []
+}
